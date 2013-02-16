@@ -37,3 +37,5 @@ cd ..
 
 tar cvzf ghc.tar.gz ghc
 tar cvzf cabal.tar.gz .cabal
+
+cabal install snap
